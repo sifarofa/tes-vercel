@@ -1,0 +1,6 @@
+{
+  "name": "RekonIKK - Dashboard Rekonsiliasi Data IKK",
+  "description": "Dashboard interaktif rekonsiliasi data Indeks Kemahalan Konstruksi (IKK): penelusuran harga responden, keterbandingan wilayah, dan deteksi anomali rasio harga 2026/2027.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
